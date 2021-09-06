@@ -25,3 +25,9 @@
 3. Increase in-app / in-site logins (gdpr, more information)
 
 - How to increase engagement via in-app logins to allow for more personalization and data-collection to drive sales and ad views
+
+4. "Fail-fast": When not to "fail-fast" and its implication on user engagement
+
+- consider a software that has several modules as dependancies (third party):
+  what is good ux when an external service fails?
+  "fail-fast" comes from the agile methodology to improve software delivery and troubleshooting

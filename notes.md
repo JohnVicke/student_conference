@@ -2,9 +2,11 @@
 
 ## Sources
 
-https://www.crazyegg.com/blog/push-notifications-increase-conversion-rates/#:~:text=Now%2C%20About%20Those%20Conversion%20Rates,on%20a%20segmented%20push%20message.
+- https://www.crazyegg.com/blog/push-notifications-increase-conversion-rates/#:~:text=Now%2C%20About%20Those%20Conversion%20Rates,on%20a%20segmented%20push%20message.
 
-https://soshace.com/hot-topics-in-web-development-12-hottest-trends-for-2019/
+- https://soshace.com/hot-topics-in-web-development-12-hottest-trends-for-2019/
+
+- https://www.businessofapps.com/marketplace/push-notifications/research/push-notifications-statistics/
 
 ## Ideas
 

@@ -3,7 +3,10 @@
 ## Ideas
 
 1. Push notifications(web/mobile) to drive app/website conversion rate
+
 https://www.crazyegg.com/blog/push-notifications-increase-conversion-rates/#:~:text=Now%2C%20About%20Those%20Conversion%20Rates,on%20a%20segmented%20push%20message.
+
+https://soshace.com/hot-topics-in-web-development-12-hottest-trends-for-2019/
 
 - Measure open-rate and click through comparable to notifications deliver. Was app launched after? Notifications turned off? How much time was spent? Number of sales? Number of logins etc etc. What do users wants? Rise of desktop push notifications. Increase functionality in push notifications. Investigate current limitations / possibilities. Personalization / generic / etc etc
 
